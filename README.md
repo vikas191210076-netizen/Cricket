@@ -1,2 +1,35 @@
-# Cricket
-My 3D Cricket Game is built using HTML, CSS, JavaScript, and Three.js. It features a 3D cricket ground, batsman, bowler, ball, wickets, and scoreboard. Players can use mobile touch controls to hit shots, score runs, and hit fours and sixes. The game is hosted free on GitHub Pages and can be played through a web browser.
+
+# 🏏 3D Cricket Game
+
+A simple 3D cricket batting game built using HTML, CSS, JavaScript, and Three.js.
+
+## 🎮 Features
+- 3D cricket ground and players
+- Mobile touch controls
+- Batting shots and scoring
+- Runs, wickets, and overs scoreboard
+- Restart match option
+- Free hosting with GitHub Pages
+
+## 🛠️ Technologies Used
+- HTML
+- CSS
+- JavaScript
+- Three.js
+- GitHub Pages
+
+## 🕹️ How to Play
+1. Open the game website.
+2. Tap START MATCH.
+3. Wait for the ball to approach.
+4. Tap SHOT at the right time.
+5. Score runs and beat your high score!
+
+## 🚀 Live Demo
+Coming soon!
+
+## 📱 Compatibility
+Playable on mobile phones and computers using a compatible web browser. An internet connection is required.
+
+## 👨‍💻 Author
+Vikas
